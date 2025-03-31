@@ -1,4 +1,4 @@
-# Starbucks X Webpage Design
+# Starbucks X 
 
 This is a webpage design for **Starbucks X**, showcasing different coffee products and their respective details. The design includes a carousel that transitions between various Starbucks drinks with interactive arrows, and background color changes as the products change.
 
